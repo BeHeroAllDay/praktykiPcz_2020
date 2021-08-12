@@ -2,8 +2,8 @@
 <h3>Technologie:</h3>
 <ul>
   <li>Język programowania: C#</li>
-  <li>Framework WPF</li>
-  <li>Baza danych SQLite</li>
+  <li>Framework: WPF</li>
+  <li>Baza danych: SQLite</li>
 </ul>
 
 <h3>Funkcjonalności:</h3>
