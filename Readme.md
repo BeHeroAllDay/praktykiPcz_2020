@@ -4,6 +4,7 @@
   <li>Język programowania: C#</li>
   <li>Framework: WPF</li>
   <li>Baza danych: SQLite</li>
+  <li>Dodatek: Syncfusion PDF Viewer</li>
 </ul>
 
 <h3>Funkcjonalności:</h3>
